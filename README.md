@@ -1,11 +1,12 @@
+<hr>
+
 <div align="center">
   <h2>Olá, meu nome é Tamara!</h2> 
   <p>Sou estudante de Engenharia de Software na Unicesumar.</p> 
   <p>Atualmente, estou me especializando em Front End.</p>
   <p>Esses são meus projetos pessoais, feitos com HTML5, CSS3, Javascript e jQuery:</p>
 </div>
-
-<br />
+ 
 
 <hr>
 
