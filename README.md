@@ -1,3 +1,5 @@
+<br /> 
+
 <hr>
 
 <div align="center">
@@ -8,18 +10,20 @@
 </div>
   
 <hr>
-
-<br />
-
-<a href="https://tamarap2.github.io/Batera-Girl/" target="_blank"><img src="https://user-images.githubusercontent.com/87210574/186040723-c0060cb2-b25c-4157-90b3-a0bacb0c76ab.png"></a>
  
+<br /> 
+
+<br />
+
+<a href="https://tamarap2.github.io/Bateria-Online/"><img src="https://user-images.githubusercontent.com/87210574/180038820-d6ab6dac-79a3-49b9-b5bd-a6a183e5f06d.png"></a>
+
 <br />
 
 <hr>
 
 <br />
 
-<a href="https://tamarap2.github.io/Bateria-Online/" target="_blank"><img src="https://user-images.githubusercontent.com/87210574/180038820-d6ab6dac-79a3-49b9-b5bd-a6a183e5f06d.png"></a>
+<a href="https://tamarap2.github.io/Simon-Game/"><img src="https://user-images.githubusercontent.com/87210574/184525891-da9bc6d5-5fb1-4042-a47d-f50e3144c2c1.png"></a> 
 
 <br />
 
@@ -27,4 +31,4 @@
 
 <br />
 
-<a href="https://tamarap2.github.io/Simon-Game/" target="_blank"><img src="https://user-images.githubusercontent.com/87210574/184525891-da9bc6d5-5fb1-4042-a47d-f50e3144c2c1.png"></a> 
+<a href="https://tamarap2.github.io/Batera-Girl/"><img src="https://user-images.githubusercontent.com/87210574/186040723-c0060cb2-b25c-4157-90b3-a0bacb0c76ab.png"></a>
