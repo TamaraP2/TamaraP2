@@ -12,7 +12,7 @@
 <hr>
 
 <div align="center">
-  <h2>Projetos</h2> 
+  <h2>Meus Projetos</h2> 
   <p>Esses são meus projetos pessoais, feitos com HTML5, CSS3 e Javascript:</p>  
 </div> 
 
