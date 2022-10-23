@@ -15,28 +15,24 @@
 
 <br />
 
-<a href="https://tamarap2.github.io/Bateria-Online/"><img src="https://user-images.githubusercontent.com/87210574/180038820-d6ab6dac-79a3-49b9-b5bd-a6a183e5f06d.png"></a>
+<div align="center">
+  <a href="https://tamarap2.github.io/Bateria-Online/"><img src="https://user-images.githubusercontent.com/87210574/180038820-d6ab6dac-79a3-49b9-b5bd-a6a183e5f06d.png"   width="40%"></a> 
+  <a href="https://tamarap2.github.io/Simon-Game/"><img src="https://user-images.githubusercontent.com/87210574/184525891-da9bc6d5-5fb1-4042-a47d-f50e3144c2c1.png"  width="40%"></a> 
+</div>
+
+<br /> 
+
+<br />
+
+
+<div align="center">
+  <a href="https://tamarap2.github.io/Banco-TPP/"><img src="https://user-images.githubusercontent.com/87210574/197017448-c2b670ca-e741-4fe4-8b35-7d6369769849.png"        width="40%"></a> 
+  <a href="https://tamarap2.github.io/Batera-Girl/"><img src="https://user-images.githubusercontent.com/87210574/197400776-6e2447e2-d442-4140-aeae-8219ece6246c.png"      width="39.7%"></a> 
+</div>
+ 
 
 <br />
 
 <hr>
 
-<br />
-
-<a href="https://tamarap2.github.io/Simon-Game/"><img src="https://user-images.githubusercontent.com/87210574/184525891-da9bc6d5-5fb1-4042-a47d-f50e3144c2c1.png"></a> 
-
-<br />
-
-<hr>
-
-<br />
-
-<a href="https://tamarap2.github.io/Batera-Girl/"><img src="https://user-images.githubusercontent.com/87210574/186040723-c0060cb2-b25c-4157-90b3-a0bacb0c76ab.png"></a>
-
-<br />
-
-<hr>
-
-<br />
-
-<a href="https://tamarap2.github.io/Banco-TPP/"><img src="https://user-images.githubusercontent.com/87210574/197017448-c2b670ca-e741-4fe4-8b35-7d6369769849.png"></a>
+<br /> 
