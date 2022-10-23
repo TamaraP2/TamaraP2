@@ -6,7 +6,7 @@
   <h2>Olá, meu nome é Tamara!</h2> 
   <p>Sou estudante de Engenharia de Software na Unicesumar.</p> 
   <p>Atualmente, estou me especializando em Front End.</p>
-  <p>https://www.linkedin.com/in/tamarapeixoto</p>
+  <p>E buscando oportunidades de estágio.</p>
 </div>
 
 <hr>
@@ -38,4 +38,9 @@
 
 <hr>
 
-<br /> 
+<div align="center">
+  <h2>Entre em contato!</h2> 
+  <p>https://www.linkedin.com/in/tamarapeixoto</p>
+</div> 
+
+<hr>
