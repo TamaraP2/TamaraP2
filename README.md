@@ -7,12 +7,14 @@
   <p>Sou estudante de Engenharia de Software na Unicesumar.</p> 
   <p>Atualmente, estou me especializando em Front End.</p>
   <p>https://www.linkedin.com/in/tamarapeixoto</p>
-  <p>Esses são meus projetos pessoais, feitos com HTML5, CSS3 e Javascript:</p>
 </div>
-  
+
 <hr>
- 
-<br /> 
+
+<div align="center">
+  <h2>Projetos</h2> 
+  <p>Esses são meus projetos pessoais, feitos com HTML5, CSS3 e Javascript:</p>  
+</div> 
 
 <br />
 
