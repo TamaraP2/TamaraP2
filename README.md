@@ -16,10 +16,10 @@
   <p>Esses são meus projetos pessoais, feitos com HTML5, CSS3 e Javascript:</p>  
 </div> 
 
-<br />
+<br /> 
 
 <div align="center">
-  <a href="https://tamarap2.github.io/Minhas-Tarefas/"><img src="https://user-images.githubusercontent.com/87210574/202277272-1f16927b-74a7-4b3e-9a34-aad3440aeeea.png"   width="40%" alt="Minhas Tarefas"></a> 
+  <a href="https://tamarap2.github.io/Minhas-Tarefas/"><img src="https://user-images.githubusercontent.com/87210574/208251548-17e28840-8559-4273-b002-3eaebe3f82cc.png"   width="39.6%" alt="Minhas Tarefas"></a> 
    <a href="https://tamarap2.github.io/Batera-Girl/"><img src="https://user-images.githubusercontent.com/87210574/197400776-6e2447e2-d442-4140-aeae-8219ece6246c.png"      width="40%" alt="Batera Girl"></a>
 </div>
 
